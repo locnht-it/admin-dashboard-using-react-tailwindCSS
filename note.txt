@@ -1,0 +1,17 @@
+npx create-react-app admin-dashboard-using-react-tailwindcss
+
+yarn start
+
+yarn add -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+yarn add react-router-dom
+
+npm install react-icons --save
+
+npm i classnames
+
+npm install @headlessui/react
+
+yarn add recharts
